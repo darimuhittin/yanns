@@ -1,0 +1,11 @@
+build
+coverage
+
+*.html
+
+node_modules
+
+amplify
+
+.next
+out
